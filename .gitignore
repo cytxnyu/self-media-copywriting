@@ -1,0 +1,15 @@
+# This repository contains only the authored skill, documentation and evaluations.
+_work/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.wav
+*.mp3
+*.zip
